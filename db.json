@@ -1,0 +1,542 @@
+{
+    "russian": {
+        "headers": {
+            "logo": {
+                "beka": "Beka ",
+                "studio": "Studios"
+            },
+            "navbar": [
+                {
+                    "name": "Главный",
+                    "link": "#main",
+                    "id": 100
+                },
+                {
+                    "name": "Обо мне",
+                    "link": "#aboutme"
+                },
+                {
+                    "name": "Мои навыки",
+                    "link": "#mySkills"
+                },
+                {
+                    "name": "Аниме",
+                    "link": "#anime"
+                },
+                {
+                    "name": "Изображение",
+                    "link": "#image"
+                },
+                {
+                    "name": "Контакты",
+                    "link": "#contacts"
+                }
+            ],
+            "language": {
+                "russ": "Русский",
+                "eng": "Английский"
+            }
+        },
+        "mainpage": {
+            "H1": {
+                "hello": "Всем привет, я",
+                "nickname": "МР Бека",
+                "profession": "Я жуниор фронтент разработчик"
+            },
+            "media": [
+                {
+                  
+                    "link": "https://www.instagram.com/a._.bekzat/",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAABEpJREFUOE99lHtMVnUYxz/nvfHCuEPTDCQM7eKcTUr/KJsXLJ2aqIkym1qWg5VZapr90azVpuiaqcvLTMsUa5MGbZEmWqbWnIqaysLAW6jgC4K8XN73Pef3e9o5CimzzvbsbL/t+Wzf7/M8X4P7fOeY5jPpMzlM3CRF/BBFTJoiGovoOsFfCZ7SZkKleeRFerYbPR8uMXJqhIQik+R+JvGYxDmliLlTfoQoFJ5ajXvJOCZ8dzejGyjgvkmflWFSFkVIIUISplP/DdV4ENyrf+f40uUs1za4G9jRO2q1qteLIv6H8MwrwJszHFefXojT5LIb75SL8LUQTRU3uLq5DitkoPEUjWX80m5gR07CVALWbmnxElVcjpHVn9Du/YSv3MJs1t1SFX6MpES8fZNJfSmLjpo2KkcfcaCCa/ILTCw1ZDm+8PmkKgmoR9w58/C8uoSOQdmE6i0ipHI/+Qn5QwmebGXQwSlc/OQcf6+9jMZ9sYXIY0b4w17TabS+kSaN961i9KUrRN5egK5XhElFZw3BnTMaixha910i1OJmYP1H1MwqJ/aZDHwZiZyeeNgZlMaTZ0TW9N5Fi54hTQrvgp9QFSWYGz5DGhTuCbPxrV+LOn/Z8c8zIJ3rb+zkZmkNoSYXqQtHkjL9CSqHlWPbIUTtNMwvHzxPi/SXFo1nbgVq/w6snRshKgN/yTFCrxfSvn2PI9/3ysskb3iH2oEf0F4bImn+GFLmZHMye7fjs4W/2jBL0oJGUMfaQHf+AdQvX6DKtuIaNhv3uNcIPfdUt3wbmnqmjOb1e2ncdIz4wnGkFAzn1ODtXXvaZlh70oO0SyxBjWt8BfroNtTerbienI171FxCuUMd+V2eJpw9ROu6Mpo2HSa2cApJBaM4O3ijs/wWMa2GOpRRTYceIG2Ca8SPyB+7UAe3gJGOd9kRzLULsb7+6ran42c5ngYGTqbzQicx82cSN2cM1dlrui7qT0OOZhRLRPKlQzCe/h6pKUP/thHbAqP/DDzTipCrtYgycKVlEi6cT9u2HxxP/QsLiJ4+hgvDVnRd1A5DTmXmYepvJSTw6FYI1qEPve8A7YI0jPQRSFCh9u1Hn6jplh+9/lOMvn2pe3G1c6YW8dMMOZ7txdNYhUmWJM/BSHsTVfE8BBq6ofZK2XsqAYXcUI584QGiT1fS9vEWmtftJULiBRPv484ty5l+U9C6BMsHWcXgz0DqypHmOmhpRjoFadPQLkA8xKXhHpWLrv6LWzkzCYfi7CPIzeTnsn/T5lzmKixZbEMlMR/ingVvL1ACitt/C7AEabiO+vUA5udb0JfbCZOyMpX69+5JG7EjpSpzBZa8S0SwPbUHZU/fXqkuT3vKp8Eqiq4PLzPg3vjqCkmpejiXiKxyPP0/aEDXGI3W4qiKYNl9A/buR2dQvpu5RPQk3amypd1IE9u/oK6TW+qENOtS37VAmbEZs2fi/wPpqGoD+eLrbgAAAABJRU5ErkJggg=="
+                },
+                {
+                   
+                    "link": "https://t.me/beka_26",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAudJREFUOE+VlctPE1EUxr8zfVFaaC0VSXlEXoIoEF6JMS5kQRQTpYhFjH+AJm4M8tAdS0FWbowL40ZFHmIhBkmIiVEjGMEdKFgEDBQDpNjKoxSYY6aGQjuNwGwmc77v/Obce+6cIYS5bG3D6nlTTDmxWCaC8gFO+GejaQH8BSC7edFlb6885gtNp9BAcZ+zQhTFJpCQEu5lWzGRMU4C6t6VWDp3+gJAWxsrZo2zjcS49T+QXOPm9/2WejSQ6F/DluFUj7MZAu8TFqi36cPZxPoA8GSvswLMHfurLNjNTOX95yx2ymobVut1hhGBkLoXoEBAgUmDtGgVWiaWtlOYJzzLnkw60fPzMjM93w1m1ihQmhAJa6IO8ZFKDMx7cfPzQlAaM1VS0avpFoCrwgGlagpjNChP0uN0nBZgxtLaBgxaFR47PHgw6glKE4GnVNA9NUZE6TuV2AgFSuN1uHRYjzitwi95vOvwrG7AYoyAQITawQW8/bUaXCF4lPK7p/4ApJeUZL0KddlGFJkjAu3f2GQ43asgAhKMkf67dJ1/MwvnykbIwniJ8uyTAaBRLeBqajRK4iORpFPCtezDrNuLAzoVLAZtINntE1H8elq2S8zwUO7LyVGAjoSqtiQtLhxSI86gxUG9OkgemPPi+sc5+bYTvlFO5+QzAFdC1WiVgOacKIzNr6A0KxZmrTJgeTTmxv3h3/IKgSd0vGOqEsSt4bp8I0WLWNGH7kVCdZ4ZOSaN31b9aR59MythgGSjgoeDqpUY8wiB00Id2VFKuHybmFljqAVCfa4JlclRONM7LW8I8w/w6lF/zzLbxy8S6MVuh1vSTRoFXGubMiuBrCO25K7AcMhod9wDCzV7gcpp3DhqS70txbfnYQMLGZkTd5m4dj9QBpq+f025IxtfW5DUVoeVRLoHgmxPQz4LB0iscVSld+2Myya2JEqNcusNVhDKpEeRyf8LEIil0zwEgt3gcXcNXStcD13NX8h2AB1fpX/iAAAAAElFTkSuQmCC"
+                },
+                {
+               
+                    "link": "https://wa.me/+996709963853",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAA8NJREFUOE99VW1MW2UUfs5tKXVQO2CMIWjs+gHM0SVizH6YODL9sUUtbClui0790TKjiZvsQ5wmJBoLo0aN0QQ0M8FNccwJmuAP4zLRZNHIEmlFaKFs2G18bECBDWh7e8x7VwotuPfPTZ5z3uec95znnEtY5Wz6266JxrIrZY7ZQPQwAYXCjYEgmC8RoV0jTbX3PtQWTr1OqYDZ69jNTCcI2LhasATGGATRUX9p07nlfkuEZ+wqU0lWAwE1dyVKNcbI7bfmHwPVxYQpQWjyON2pZDlqHcp1VhjS80AgDC2M4pcZL8aiU8m0jBN+a/OxBKF4JpjOLnqpSYWD6214Pqcc/8z/i965YcTAKNIWYss9BrROdsE9cg5hjiaIiVHpsza3k2hARM7qBcEorCqS0PTAK1iXpsfR4BfwzV9NymZj+ga4Cl5AlGW8dPnDBCkDQxppspgsnupnGdy6eOtgng3bdKXYF2hEhGXILCvZLT/plIYWw+vwzF3Gu9e/WeoTo4rMHufXAPYIVK9ag66ieuwNNGI4PI5Ocx1aJ7rw6Xjnij6JunYY38aT/rcwGlmsKZ0ms8fhA8gsbjy99lG8mLMduwdd2JpRjBbDIQwsXMdOf92qjRf2zlC3ElScGNBPph7HDBFlCuDV9U8hPy0bx6+2QHT4vOU9tNw8j/dHv1uVsHaDXcFdI23Kl5lnkwgP5O6AMT0fR4InFYd92Y9D1PS5ITd889eQrdYhJN+CzIrk8GZ+FWIcQ/1IXCDM02TyOvuJYREOO/RleDl3J54ZeCeRUU1eJfbnlOPzGz+hYu1WRbgHhj9RAnxpqMH3U7+jbfK3OxkCfWTscXwlEe0VwBopHb8WNcBx5WNcuj2YIN2u24JDeTZYtAUYj07DPuhChqTFWWMtnvAdV7C4qE+RyeOoIlCi96cMNfgx1I3TExdW1E2vysACh5WpEX4XZ/vhHl0aZZbITmV/OtOmNRDCNmmlNPxR/AH2BBqwTn0vJuRZeOeuJBGLaXEV7EdIvq28RAg8/tyARposUWbZ7KneBfC3j2VuwskHX0OEoxiLhJClzkRgYQR980FlIkq096NYW4iWmz/jo7EfEmR3OkwVA9amjsRyMP9V3bhNv/lwrlqPi7f6EAzfUOpUritVloMESRH7hRkPJuXZ5HIQN/g3f/ZGvI5xG9dJRu+1egk4sqro/g8Um6b0vtoV62vR39LjrGCgUdT0rsSMAQYdFs9c7rdiYwujaFRIgwoisjG4DMzKLwBEQQJ1s4R2/Rx3dD/SHEkN+h8pVXlF/19xBwAAAABJRU5ErkJggg=="
+                },
+                {
+                  
+                    "link": "https://github.com/aitbekjanov2bekzat2jyldyzbekovich",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAclJREFUOE+t1EvIz0EUxvHPmxTFxgpJhJRLLGwsEUnkHiELK1m4bCRhQZKUaxZ2ShFJLkk2NtYuhVIkcsmChVAo0lMzNe+/F7+FWc1v5vl958yZ55w+/3n0/YU3DIswF6OL7i3u4Ba+DPTvQMBB2Io9GPGHAz/iAE7hV6vpBSaqC1jcMRPXsQ5fq74FZn4JqzrCquwaVtRIW+AWnC6qefiA/RiOV2V9HD5hH0bhdlnfjDOZV+BQvMDIIpiGJ/+IdAYeFs07TMC3ClyC5CMjSY74cQfggyao5P1mBZ4oLxvGZazumMerWFq0x7GjAq9gednYhcMdgbtxsGjDWFmBSe6CshHRoY7AveXhIg9jYQWew4YCiXXWdAS2NwtjYwVux7EC+Y6ZePoP6HTcw+Ci24aTFTgez/EeP5HyyyE3YoUecCy2DEcbm+WfiXjZGjtXnV9cn0TPxg9MjrBAM3/URFXPuoi1rbEzH4v4KiZNpSTCVEsiacdrjGkW0iiSoje9wHzPKdfMVY/gM571AGP4qWUtLSwt7m7VDNS+ZuE8JpVqSfLbkZKcUh5tPe63m39qsEOwCWkGO3uAiTwPeBZxRL/xt47d0Yr9Zb8B8kZZFTd1T3sAAAAASUVORK5CYII="
+                }
+            ],
+            "buttons": {
+                "name": "Моё резюме",
+                "text": "Скачать",
+                "link": "https://drive.google.com/file/d/13IrfJH8Z_78t33Bd72fMCIsSwY1boGHb/view?usp=sharing"
+            },
+            "mainPageImg": {
+                "image": "https://i.ibb.co/tXzsvHK/cbimage.png"
+            }
+        },
+        "aboutme": {
+            "FIO": {
+                "image": {
+                    "imageMain": "https://i.ibb.co/PDjj5Ts/photo-5287762752296832213-y-removebg-preview-1.png",
+                    "images": [
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/2880px-Flag_of_Kyrgyzstan.svg.png",
+                        "https://www.advantour.com/img/kyrgyzstan/bishkek/getting-around.jpg",
+                        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/15/6e/43/img-20181004-120340-largejpg.jpg?w=500&h=400&s=1"
+                    ]
+                },
+                "myData": {
+                    "contry": "Кыргызстан",
+                    "name": "Айтбекжанов Бекзат"
+                }
+            },
+            "biografia": {
+                "head": "Обо мне",
+                "text": "Добро пожаловать на мой  вебсайт. Меня зовут Бекзат, мне 18 лет  и  я  инвалид третий  группыя начинающий программист, я изучал программирование в Codify  я  участвовал на         стажировках Codify и участвовал на хакатонах как фронтенд <br/> <br/> разработчик.  Кода я первый раз участвовал мы заняли первое место и получили 100 000 сом.Я студент учусь в  Бишкеке я люблю слушать музыку Я родился  в Нарыне и смотрю аниме уже посмотрел больше 100 тайтлов"
+            }
+        },
+        "skills": {
+            "head": "Мои навыки",
+            "leftSckills": [
+                {
+                    "name": "Python",
+                    "text": "Python был задуман в конце 1980-х [43] Гвидо ван Россумом из Centrum Wiskunde & Informatica (CWI) в  "
+                },
+                {
+                    "name": "Firebase",
+                    "text": "Основной сервис — облачная СУБД класса NoSQL, позволяющая разработчикам приложений хранить данные и"
+                },
+                {
+                    "name": "Java Script",
+                    "text": "Самая первая реализация JavaScript была создана Бренданом Эйхом (англ. Brendan Eich) в компании  "
+                }
+            ],
+            "rightscills": [
+                {
+                    "name": "Vue.js",
+                    "text": "В 2013 году сотрудник Google Эван Ю (Evan You), работая над одним из проектов, пришёл к выводу, что "
+                },
+                {
+                    "name": "Pinia",
+                    "text": "Pinia была задумана разработчиком Vue Эдуардо Сан Мартином Мороте [4] как исследование того, как Vue "
+                },
+                {
+                    "name": "Sass",
+                    "text": "Sass (Syntactically Awesome Stylesheets) — модуль, включенный в Haml. Sass — это метаязык на основе "
+                }
+            ],
+            "image": "https://i.ibb.co/t3DRkHY/f.png"
+        },
+        "hobbi": {
+            "head": "Любимые аниме",
+            "anime": [
+                {
+                    "id": 1,
+                    "image": "https://animelib.me/uploads/anime/12/cover/8536666a-418d-4865-95eb-6f2e4901efbd.jpg",
+                    "back": "https://c4.wallpaperflare.com/wallpaper/838/806/561/satoru-gojo-one-piece-hd-wallpaper-preview.jpg",
+                    "name": "Ван-Пис",
+                    "text": "Легендарный Гол Д. Роджер был пиратским королём, он был единственным пиратом, проплывшим Гранд Лайн от начала и до конца. Захват Роджера 22 года тому назад всемирным правительством привёл к изменениям во всём мире. Последние слова пирата перед казнью открыли расположение величайшего сокровища мира Ван-Пис. Тот, кто добудет его, станет новым Королём пиратов, и именно это событие положило начало Великой эры пиратов. Монки Д. Луффи, 17-летний парень, бросает вызов Гранд Лайн. Он собирает команду и отправляется на поиски сокровища, мечтая о захватывающих приключениях и имея свои причины стать пиратом. Следуя по стопам своего героя детства, Короля пиратов, Луффи и его команда путешествуют по линии Великого моря навстречу безумным приключениям, сильным врагам, и всё для того, чтобы добыть Великое сокровище мира — Ван-Пис."
+                },
+                {
+                    "id": 2,
+                    "back": "https://wallpapercave.com/wp/wp8112346.jpg",
+                    "image": "https://animelib.me/uploads/anime/11/cover/ce12eeba-fea1-4653-8cfd-2c8b0f2f52d4.jpg",
+                    "name": "Наруто",
+                    "text": "В день рождения Наруто Узумаки на деревню под названием Коноха напал легендарный демон, Девятихвостый лис. Четвёртый Хокагэ ценой своей жизни спас деревню, запечатав демона в новорождённом Наруто, неосознанно обрекая его на жизнь в ненависти односельчан.Несмотря на недостаток таланта во многих областях ниндзюцу, неусидчивость и задиристость, у Наруто есть мечта — стать Хокагэ, сильнейшим ниндзя в деревне. Желая признания, которого не получал, он упорно работает и тренируется вместе со своими напарниками, Саскэ Учихой и Сакурой Харуно , а также со своим наставником Какаши Хатакэ. Ему и его напарникам придётся пройти через многое по пути к своим заветным мечтам: сражения, любовь, дружба, предательство, жажда силы..."
+                },
+                {
+                    "id": 3,
+                    "back": "https://www.coliseugeek.com.br/wp-content/uploads/2023/03/426e5-clickwallpapers-attackontitan-4k-img6-base-scaled-1.jpg",
+                    "image": "https://animelib.me/uploads/anime/7389/cover/ef828360-03bc-4a40-9bdf-51fbbf0b6175.jpg",
+                    "name": "Атака титанов",
+                    "text": "С давних времён человечество ведёт свою борьбу с титанами. Титаны — это огромные существа, ростом с многоэтажный дом, которые не обладают большим интеллектом, но сила их просто ужасна. Они едят людей и получают от этого удовольствие. После продолжительной борьбы остатки человечества создали стену, окружившую мир людей, через которую не пройдут даже титаны. С тех пор прошло сто лет. Человечество мирно живёт под защитой стены. Но в один день мальчик Эрен и его сводная сестра Микаса становятся свидетелями страшного события: участок стены был разрушен супертитаном, появившимся прямо из воздуха. Титаны атакуют город, и двое детей в ужасе видят, как один из монстров заживо съедает их мать. Брат и сестра выживают, и Эрен клянётся, что убьёт всех титанов и отомстит за всё человечество!"
+                },
+                {
+                    "id": 4,
+                    "back": "https://rare-gallery.com/thumbnail/393059-bleach-2021-manga-ichigo-4k-pc-wallpaper.jpg",
+                    "image": "https://animelib.me/uploads/anime/246/cover/301562cf-666a-445a-b0f0-324a8afcc696.jpg",
+                    "name": "Блич",
+                    "text": "Ичиго Куросаки с детства мог видеть призраков и духов умерших. Сейчас ему пятнадцать, живёт он в современной Японии и учится в старшей школе.  В один ничем не примечательный день в его спальне внезапно объявляется девушка — Рукия Кучики. Она синигами и сильно удивлена тем, что Ичиго может не только видеть её, но и, неслыханное дело, касаться. Начавшееся было выяснение отношений прерывается появлением Пустого, того самого, за которым и явилась Рукия. Бой с Пустым складывается неудачно: вынужденную защищать Ичиго, Рукию серьёзно ранят. Ради спасения Ичиго она передаёт ему часть собственных способностей, но, к её удивлению, Ичиго поглощает всю её энергию и сам становится синигами. Оставив Рукию без сил и практически беспомощной, Ичиго с лёгкостью одолевает Пустого."
+                },
+                {
+                    "id": 5,
+                    "back": "https://i.pinimg.com/564x/66/35/9a/66359a10147e1bfa77932d030247e7af.jpg",
+                    "image": "https://animelib.me/uploads/anime/4684/cover/aea87687-16c8-4489-8646-59fbba19bae5.jpg",
+                    "name": "Хвост Феи",
+                    "text": "Люси — 17-летняя девушка, мечтающая стать настоящим магом. Однажды во время визита в город Харгион она встречает Нацу — молодого человека, которому становится плохо при езде на любом виде транспорта. Этот парень оказывается не обычным мальчишкой, а членом одной из сильнейших и известнейших в мире магических гильдий — «Fairy Tail», той гильдии, куда Люси всю жизнь мечтала вступить."
+                },
+                {
+                    "id": 6,
+                    "back": "https://wallpapers.com/images/featured/death-note-htruruirspqq0zot.jpg",
+                    "image": "https://animelib.me/uploads/anime/1357/cover/154de559-e236-492a-b32a-542e73fd1211.jpg",
+                    "name": "Тетрадь смерти",
+                    "text": "Изнывающий от скуки Синигами Рюк бросает одну из своих Тетрадей смерти в мир людей. Просто так, потехи ради, посмотреть, что из этого выйдет.   Между тем, в Японии на школьной лужайке эту самую тетрадь находит Лайт Ягами — лучший ученик школы, сын полицейского. Заинтригованный инструкцией на обложке, он забирает тетрадь домой и пробует её в деле, вписав туда имя преступника. А вдруг сработает?  Вскоре весь мир замечает странные массовые смерти преступников, а в сети загадочного убийцу окрещают Кирой. Для поимки Киры Интерпол привлекает легендарного детектива L, в одиночку раскрывавшего наиболее сложные и запутанные преступления. Кто такой L на самом деле — не знает никто. Отныне в противостоянии Киры и L предстоит победить тому, кто первым раскроет истинную личность противника и раньше оппонента нанесёт удар."
+                },
+                {
+                    "id": 7,
+                    "back": "https://wallpaperaccess.com/full/389830.jpg",
+                    "image": "https://animelib.me/uploads/anime/3961/cover/ac3468f8-4655-4889-a01d-54fd9359a551.jpg",
+                    "name": "Стальной алхимик: Братство",
+                    "text": "В этом мире существуют алхимики — люди, владеющие искусством алхимии, способностью манипулировать материей и преобразовывать вещество. Все они ограничены основным Законом алхимии: нельзя алхимическим путём получить что-то, не пожертвовав чем-то равноценным полученному. Лишь с помощью легендарного философского камня, способ создания которого утерян, можно обойти этот Закон. Главные герои, братья Эдвард и Альфонс Элрики, пострадали в детстве при попытке вернуть к жизни свою мать, умершую от болезни. Они забыли основной Закон алхимии и жестоко поплатились за это: Альфонс потерял всё своё тело, а Эдвард — руку и ногу. Эдвард сумел спасти лишь душу Альфонса, запечатав её в старинных доспехах. Спустя много лет Эдвард сдаёт государственный экзамен на звание алхимика и получает прозвище «Стальной Алхимик». Братья начинают путешествие с целью найти философский камень и вернуть с его помощью утраченное много лет назад."
+                },
+                {
+                    "id": 8,
+                    "back": "https://wallpaperaccess.com/full/1083239.jpg",
+                    "image": "https://animelib.me/uploads/anime/6560/cover/d516e891-3fa8-4ded-9417-45dff52785fb.jpg",
+                    "name": "Баскетбол Куроко",
+                    "text": "Средняя школа Тэйко стала знаменитой за достаточно короткий период времени. Но так быстро её прославили вовсе не значительные достижения в области знаний, а, как ни странно, школьная команда по баскетболу. Три года подряд она становилась победителем на международном чемпионате, что красноречиво доказывало мастерство её участников. Команда состояла более чем из ста человек, но выделялись среди них только пятеро, более известные как «Поколение чудес». Каждый из этих гениев площадки демонстрировал поразительный уровень навыков. Но был среди них и шестой, кого также можно было назвать исключительным, поскольку пятерка знаменитостей признавала его себе ровней. Однако по какой-то причине этот игрок всегда оставался в стороне от всеобщей популярности... После выпуска ученики Тэйко разошлись по разным старшим школам, и «Поколение чудес» не было исключением. Тэцуя Куроко , распасовщик знаменитой команды, уходит в старшую школу Сэйрин, где вступает в баскетбольную команду, несмотря на то, что та сформирована совсем недавно, чуть более года назад. Здесь он знакомится с Тайгой Кагами — игроком, с которым ему предстоит через многое пройти, чтобы получить возможность сразиться с каждым из «Поколения чудес».  Смогут ли наши герои добиться того успеха, что когда-то имела знаменитая баскетбольная команда?"
+                },
+                {
+                    "id": 9,
+                    "back": "https://images3.alphacoders.com/723/thumbbig-723601.webp",
+                    "image": "https://animelib.me/uploads/anime/222/cover/c332af7c-249a-498d-82d3-7e74b4dff76a.jpg",
+                    "text": "Бывший член нагоняющей на горожан ужас банды «Онибаку», байкер Эйкити Онидзука , ставит перед собой цель стать самым крутым школьным учителем. Почему учителем? Да просто в школах полно сексуальных старшеклассниц! Ну... почти бывший член банды... Однако тирания школьной администрации и целый класс малолетних правонарушителей стоят между Онидзукой и его целью. И любыми средствами — неважно, законными или нет, — они хотят избавиться от нового учителя. Впрочем, самого Онидзуку это не сильно беспокоит — его способы воспитания учеников вы не найдёте ни в одном учебном пособии, законность и дозволенность методов его заботит ровно настолько же, насколько его заботит разница в возрасте между ним и вожделенными старшеклассницами.",
+                    "name": "Крутой учитель Онидзука"
+                },
+                {
+                    "id": 10,
+                    "back": "https://wallpapercave.com/dwp1x/wp1812974.jpg",
+                    "image": "https://animelib.me/uploads/anime/6515/cover/c48225d5-e278-46ae-b6f3-a63ce022e818.jpg",
+                    "name": "Старшая школа DxD",
+                    "text": "Иссэй Хёдо — классический старшеклассник, все мысли которого вертятся вокруг девушек и их прелестей. Он идёт на своё первое свидание в надежде на то, что ему хоть что-нибудь перепадёт, но вместо этого девушка оказывается падшим ангелом и убивает его... почти... каким-то образом он призывает кого-то... Проснувшись, Иссэй понимает, что его жизнь кардинально изменилась: он переродился в демона, и должен теперь служить своей хозяйке Риас Гремори . Ясно одно — его спокойные деньки прошли. Вечная битва ангелов и демонов, чем она закончится?"
+                }
+            ]
+        },
+        "imges": {
+            "head": "Изображение",
+            "imge": [
+                {
+                    "id": 1,
+                    "image": "https://www.getsview.com/wp-content/uploads/2020/08/Learn-Programing-For-Free-With-An-Android-Device.jpg"
+                },
+                {
+                    "id": 2,
+                    "image": "https://images.pond5.com/programing-code-011357463_prevstill.jpeg"
+                },
+                {
+                    "id": 3,
+                    "image": "https://igorfil.com/posts/2020-05-03-what-language-to-learn-next/cover.png"
+                },
+                {
+                    "id": 4,
+                    "image": "https://gdb.voanews.com/6DD8F0FE-F989-409C-A996-22BA48C792C6_w408_r1_s.jpg"
+                },
+                {
+                    "id": 5,
+                    "image": "https://www.herzing.edu/sites/default/files/2020-09/it_computer_programming.jpg"
+                },
+                {
+                    "id": 6,
+                    "image": "https://images.pond5.com/programing-code-011357463_prevstill.jpeg"
+                },
+                {
+                    "id": 7,
+                    "image": "https://zendenwebdesign.com/wp-content/uploads/2017/10/Top-7-Programing-Languages-for-Web-Development.jpg"
+                }
+            ]
+        },
+        "contacts": {
+            "head": "Заявка",
+            "userElse": "Ошибка попробуй сново !",
+            "form": {
+                "firstName": "Имя",
+                "lastName": "Фамилия",
+                "email": "Email",
+                "message": "Сообщение",
+                "buttons": "Отправить"
+            },
+            "card": {
+                "head": "Мои контакты",
+                "information": [
+                    {
+                        "name": "Адрес:",
+                        "tetx": "Кыргызстан, Нарынская область, дом. адрес: Самансур Ата 45",
+                        "Link": "https://goo.gl/maps/sxnLLopcDRdKyzgt5",
+                        "id": 1
+                    },
+                    {
+                        "name": "Email:",
+                        "tetx": "tomoisempay@gmail.com",
+                        "Link": "mailto:tomoisempay@gmail.com",
+                        "id": 2
+                    },
+                    {
+                        "name": "Телефоный номер:",
+                        "tetx": "+996 709 963 853",
+                        "Link": "tel:+996709963853",
+                        "id": 3
+                    }
+                ]
+            }
+        }
+    },
+    "english": {
+        "headers": {
+            "logo": {
+                "beka": "Beka ",
+                "studio": "Studios"
+            },
+            "navbar": [
+                {
+                    "name": "Main",
+                    "link": "#main",
+                     "id": 100  
+                },
+                {
+                    "name": "About me",
+                    "link": "#aboutme"
+                },
+                {
+                    "name": "My skills",
+                    "link": "#mySkills"
+                },
+                {
+                    "name": "Anime",
+                    "link": "#anime"
+                },
+                {
+                    "name": "Image",
+                    "link": "#image"
+                },
+                {
+                    "name": "Contacts",
+                    "link": "#contacts"
+                }
+            ],
+            "language": {
+                "russ": "Russian",
+                "eng": "English"
+            }
+        },
+        "mainpage": {
+            "H1": {
+                "hello": "Hello, i'm",
+                "nickname": "MR Beka",
+                "profession": "I am a junior front-end developer"
+            },
+            "media": [
+                {
+                   
+                    "link": "https://www.instagram.com/a._.bekzat/",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAABEpJREFUOE99lHtMVnUYxz/nvfHCuEPTDCQM7eKcTUr/KJsXLJ2aqIkym1qWg5VZapr90azVpuiaqcvLTMsUa5MGbZEmWqbWnIqaysLAW6jgC4K8XN73Pef3e9o5CimzzvbsbL/t+Wzf7/M8X4P7fOeY5jPpMzlM3CRF/BBFTJoiGovoOsFfCZ7SZkKleeRFerYbPR8uMXJqhIQik+R+JvGYxDmliLlTfoQoFJ5ajXvJOCZ8dzejGyjgvkmflWFSFkVIIUISplP/DdV4ENyrf+f40uUs1za4G9jRO2q1qteLIv6H8MwrwJszHFefXojT5LIb75SL8LUQTRU3uLq5DitkoPEUjWX80m5gR07CVALWbmnxElVcjpHVn9Du/YSv3MJs1t1SFX6MpES8fZNJfSmLjpo2KkcfcaCCa/ILTCw1ZDm+8PmkKgmoR9w58/C8uoSOQdmE6i0ipHI/+Qn5QwmebGXQwSlc/OQcf6+9jMZ9sYXIY0b4w17TabS+kSaN961i9KUrRN5egK5XhElFZw3BnTMaixha910i1OJmYP1H1MwqJ/aZDHwZiZyeeNgZlMaTZ0TW9N5Fi54hTQrvgp9QFSWYGz5DGhTuCbPxrV+LOn/Z8c8zIJ3rb+zkZmkNoSYXqQtHkjL9CSqHlWPbIUTtNMwvHzxPi/SXFo1nbgVq/w6snRshKgN/yTFCrxfSvn2PI9/3ysskb3iH2oEf0F4bImn+GFLmZHMye7fjs4W/2jBL0oJGUMfaQHf+AdQvX6DKtuIaNhv3uNcIPfdUt3wbmnqmjOb1e2ncdIz4wnGkFAzn1ODtXXvaZlh70oO0SyxBjWt8BfroNtTerbienI171FxCuUMd+V2eJpw9ROu6Mpo2HSa2cApJBaM4O3ijs/wWMa2GOpRRTYceIG2Ca8SPyB+7UAe3gJGOd9kRzLULsb7+6ran42c5ngYGTqbzQicx82cSN2cM1dlrui7qT0OOZhRLRPKlQzCe/h6pKUP/thHbAqP/DDzTipCrtYgycKVlEi6cT9u2HxxP/QsLiJ4+hgvDVnRd1A5DTmXmYepvJSTw6FYI1qEPve8A7YI0jPQRSFCh9u1Hn6jplh+9/lOMvn2pe3G1c6YW8dMMOZ7txdNYhUmWJM/BSHsTVfE8BBq6ofZK2XsqAYXcUI584QGiT1fS9vEWmtftJULiBRPv484ty5l+U9C6BMsHWcXgz0DqypHmOmhpRjoFadPQLkA8xKXhHpWLrv6LWzkzCYfi7CPIzeTnsn/T5lzmKixZbEMlMR/ingVvL1ACitt/C7AEabiO+vUA5udb0JfbCZOyMpX69+5JG7EjpSpzBZa8S0SwPbUHZU/fXqkuT3vKp8Eqiq4PLzPg3vjqCkmpejiXiKxyPP0/aEDXGI3W4qiKYNl9A/buR2dQvpu5RPQk3amypd1IE9u/oK6TW+qENOtS37VAmbEZs2fi/wPpqGoD+eLrbgAAAABJRU5ErkJggg=="
+                },
+                {
+                  
+                    "link": "https://t.me/beka_26",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAudJREFUOE+VlctPE1EUxr8zfVFaaC0VSXlEXoIoEF6JMS5kQRQTpYhFjH+AJm4M8tAdS0FWbowL40ZFHmIhBkmIiVEjGMEdKFgEDBQDpNjKoxSYY6aGQjuNwGwmc77v/Obce+6cIYS5bG3D6nlTTDmxWCaC8gFO+GejaQH8BSC7edFlb6885gtNp9BAcZ+zQhTFJpCQEu5lWzGRMU4C6t6VWDp3+gJAWxsrZo2zjcS49T+QXOPm9/2WejSQ6F/DluFUj7MZAu8TFqi36cPZxPoA8GSvswLMHfurLNjNTOX95yx2ymobVut1hhGBkLoXoEBAgUmDtGgVWiaWtlOYJzzLnkw60fPzMjM93w1m1ihQmhAJa6IO8ZFKDMx7cfPzQlAaM1VS0avpFoCrwgGlagpjNChP0uN0nBZgxtLaBgxaFR47PHgw6glKE4GnVNA9NUZE6TuV2AgFSuN1uHRYjzitwi95vOvwrG7AYoyAQITawQW8/bUaXCF4lPK7p/4ApJeUZL0KddlGFJkjAu3f2GQ43asgAhKMkf67dJ1/MwvnykbIwniJ8uyTAaBRLeBqajRK4iORpFPCtezDrNuLAzoVLAZtINntE1H8elq2S8zwUO7LyVGAjoSqtiQtLhxSI86gxUG9OkgemPPi+sc5+bYTvlFO5+QzAFdC1WiVgOacKIzNr6A0KxZmrTJgeTTmxv3h3/IKgSd0vGOqEsSt4bp8I0WLWNGH7kVCdZ4ZOSaN31b9aR59MythgGSjgoeDqpUY8wiB00Id2VFKuHybmFljqAVCfa4JlclRONM7LW8I8w/w6lF/zzLbxy8S6MVuh1vSTRoFXGubMiuBrCO25K7AcMhod9wDCzV7gcpp3DhqS70txbfnYQMLGZkTd5m4dj9QBpq+f025IxtfW5DUVoeVRLoHgmxPQz4LB0iscVSld+2Myya2JEqNcusNVhDKpEeRyf8LEIil0zwEgt3gcXcNXStcD13NX8h2AB1fpX/iAAAAAElFTkSuQmCC"
+                },
+                {
+                   
+                    "link": "https://wa.me/+996709963853",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAA8NJREFUOE99VW1MW2UUfs5tKXVQO2CMIWjs+gHM0SVizH6YODL9sUUtbClui0790TKjiZvsQ5wmJBoLo0aN0QQ0M8FNccwJmuAP4zLRZNHIEmlFaKFs2G18bECBDWh7e8x7VwotuPfPTZ5z3uec95znnEtY5Wz6266JxrIrZY7ZQPQwAYXCjYEgmC8RoV0jTbX3PtQWTr1OqYDZ69jNTCcI2LhasATGGATRUX9p07nlfkuEZ+wqU0lWAwE1dyVKNcbI7bfmHwPVxYQpQWjyON2pZDlqHcp1VhjS80AgDC2M4pcZL8aiU8m0jBN+a/OxBKF4JpjOLnqpSYWD6214Pqcc/8z/i965YcTAKNIWYss9BrROdsE9cg5hjiaIiVHpsza3k2hARM7qBcEorCqS0PTAK1iXpsfR4BfwzV9NymZj+ga4Cl5AlGW8dPnDBCkDQxppspgsnupnGdy6eOtgng3bdKXYF2hEhGXILCvZLT/plIYWw+vwzF3Gu9e/WeoTo4rMHufXAPYIVK9ag66ieuwNNGI4PI5Ocx1aJ7rw6Xjnij6JunYY38aT/rcwGlmsKZ0ms8fhA8gsbjy99lG8mLMduwdd2JpRjBbDIQwsXMdOf92qjRf2zlC3ElScGNBPph7HDBFlCuDV9U8hPy0bx6+2QHT4vOU9tNw8j/dHv1uVsHaDXcFdI23Kl5lnkwgP5O6AMT0fR4InFYd92Y9D1PS5ITd889eQrdYhJN+CzIrk8GZ+FWIcQ/1IXCDM02TyOvuJYREOO/RleDl3J54ZeCeRUU1eJfbnlOPzGz+hYu1WRbgHhj9RAnxpqMH3U7+jbfK3OxkCfWTscXwlEe0VwBopHb8WNcBx5WNcuj2YIN2u24JDeTZYtAUYj07DPuhChqTFWWMtnvAdV7C4qE+RyeOoIlCi96cMNfgx1I3TExdW1E2vysACh5WpEX4XZ/vhHl0aZZbITmV/OtOmNRDCNmmlNPxR/AH2BBqwTn0vJuRZeOeuJBGLaXEV7EdIvq28RAg8/tyARposUWbZ7KneBfC3j2VuwskHX0OEoxiLhJClzkRgYQR980FlIkq096NYW4iWmz/jo7EfEmR3OkwVA9amjsRyMP9V3bhNv/lwrlqPi7f6EAzfUOpUritVloMESRH7hRkPJuXZ5HIQN/g3f/ZGvI5xG9dJRu+1egk4sqro/g8Um6b0vtoV62vR39LjrGCgUdT0rsSMAQYdFs9c7rdiYwujaFRIgwoisjG4DMzKLwBEQQJ1s4R2/Rx3dD/SHEkN+h8pVXlF/19xBwAAAABJRU5ErkJggg=="
+                },
+                {
+                  
+                    "link": "https://github.com/aitbekjanov2bekzat2jyldyzbekovich",
+                    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAclJREFUOE+t1EvIz0EUxvHPmxTFxgpJhJRLLGwsEUnkHiELK1m4bCRhQZKUaxZ2ShFJLkk2NtYuhVIkcsmChVAo0lMzNe+/F7+FWc1v5vl958yZ55w+/3n0/YU3DIswF6OL7i3u4Ba+DPTvQMBB2Io9GPGHAz/iAE7hV6vpBSaqC1jcMRPXsQ5fq74FZn4JqzrCquwaVtRIW+AWnC6qefiA/RiOV2V9HD5hH0bhdlnfjDOZV+BQvMDIIpiGJ/+IdAYeFs07TMC3ClyC5CMjSY74cQfggyao5P1mBZ4oLxvGZazumMerWFq0x7GjAq9gednYhcMdgbtxsGjDWFmBSe6CshHRoY7AveXhIg9jYQWew4YCiXXWdAS2NwtjYwVux7EC+Y6ZePoP6HTcw+Ci24aTFTgez/EeP5HyyyE3YoUecCy2DEcbm+WfiXjZGjtXnV9cn0TPxg9MjrBAM3/URFXPuoi1rbEzH4v4KiZNpSTCVEsiacdrjGkW0iiSoje9wHzPKdfMVY/gM571AGP4qWUtLSwt7m7VDNS+ZuE8JpVqSfLbkZKcUh5tPe63m39qsEOwCWkGO3uAiTwPeBZxRL/xt47d0Yr9Zb8B8kZZFTd1T3sAAAAASUVORK5CYII="
+                }
+            ],
+            "buttons": {
+                "name": "My resume",
+                "text": "Download",
+                "link": "https://drive.google.com/file/d/13IrfJH8Z_78t33Bd72fMCIsSwY1boGHb/view?usp=sharing"
+            },
+            "mainPageImg": {
+                "image": "https://i.ibb.co/tXzsvHK/cbimage.png"
+            }
+        },
+        "aboutme": {
+            "FIO": {
+                "image": {
+                    "imageMain": "https://i.ibb.co/PDjj5Ts/photo-5287762752296832213-y-removebg-preview-1.png",
+                    "images": [
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/2880px-Flag_of_Kyrgyzstan.svg.png",
+                        "https://www.advantour.com/img/kyrgyzstan/bishkek/getting-around.jpg",
+                        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/15/6e/43/img-20181004-120340-largejpg.jpg?w=500&h=400&s=1"
+                    ]
+                },
+                "myData": {
+                    "contry": "Kyrgyzstan",
+                    "name": "Aitbekzhanov Bekzat"
+                }
+            },
+            "biografia": {
+                "head": "About me",
+                "text": "Welcome to my website. My name is Bekzat, I am 18 years old and I am a third group disabled programmer, I am a beginner programmer, I studied programming in Codify, I participated in Codify internships and participated in hackathons as a front-end <br/> <br/> developer. When I participated for the first time, we took first place and received 100,000 soms. I am a student studying in Bishkek, I love listening to music I was born in Naryn and watch anime, I have already watched more than 100 titles"
+            }
+        },
+        "skills": {
+            "head": "My skills",
+            "leftSckills": [
+                {
+                    "name": "Python",
+                    "text": "Python was conceived in the late 1980s [43] by Guido van Rossum of Centrum Wiskunde & Informatica (CWI) in"
+                },
+                {
+                    "name": "Firebase",
+                    "text": "The main service is a cloud-based NoSQL DBMS that allows application developers to store data and"
+                },
+                {
+                    "name": "Java Script",
+                    "text": "The very first implementation of JavaScript was created by Brendan Eich at the company"
+                }
+            ],
+            "rightscills": [
+                {
+                    "name": "Vue.js",
+                    "text": "In 2013, Google employee Evan You, working on one of the projects, came to the conclusion that"
+                },
+                {
+                    "name": "Pinia",
+                    "text": "Pinia was conceived by Vue developer Eduardo San Martín Morote [4] as an exploration of how Vue"
+                },
+                {
+                    "name": "Sass",
+                    "text": "Sass (Syntactically Awesome Stylesheets) is a module included with Haml. Sass is a metalanguage based on"
+                }
+            ],
+            "image": "https://i.ibb.co/t3DRkHY/f.png"
+        },
+        "hobbi": {
+            "head": "Favorite anime",
+            "anime": [
+                {
+                    "id": 1,
+                    "image": "https://animelib.me/uploads/anime/12/cover/8536666a-418d-4865-95eb-6f2e4901efbd.jpg",
+                    "back": "https://c4.wallpaperflare.com/wallpaper/838/806/561/satoru-gojo-one-piece-hd-wallpaper-preview.jpg",
+                    "name": "One piece",
+                    "text": "The legendary Gol D. Roger was the Pirate King, the only pirate to sail the Grand Line from start to finish. The capture of Roger 22 years ago by the world government brought about changes throughout the world. The pirate's last words before his execution revealed the location of the world's greatest treasure, One Piece. Whoever obtains it will become the new Pirate King, and it was this event that marked the beginning of the Great Pirate Era. Monkey D. Luffy, a 17 year old boy, challenges the Grand Line. He gathers a team and sets off in search of treasure, dreaming of exciting adventures and having his own reasons to become a pirate. Following in the footsteps of his childhood hero, the Pirate King, Luffy and his crew travel the line of the Great Sea towards crazy adventures, powerful enemies, all in order to obtain the world's Great Treasure, One Piece."
+                },
+                {
+                    "id": 2,
+                    "back": "https://wallpapercave.com/wp/wp8112346.jpg",
+                    "image": "https://animelib.me/uploads/anime/11/cover/ce12eeba-fea1-4653-8cfd-2c8b0f2f52d4.jpg",
+                    "name": "Naruto",
+                    "text": "On Naruto Uzumaki's birthday, a legendary demon, the Nine-Tailed Fox, attacked a village called Konoha. The Fourth Hokage, at the cost of his life, saved the village by sealing the demon in the newborn Naruto, unknowingly dooming him to a life of hatred by his fellow villagers. Despite his lack of talent in many areas of ninjutsu, restlessness and cockiness, Naruto has a dream - to become Hokage, the strongest ninja in the village. Desiring the recognition he didn't get, he works hard and trains alongside his teammates, Sasuke Uchiha and Sakura Haruno, as well as his mentor Kakashi Hatake. He and his companions will have to go through a lot on the way to their cherished dreams: battles, love, friendship, betrayal, thirst for power..."
+                },
+                {
+                    "id": 3,
+                    "back": "https://www.coliseugeek.com.br/wp-content/uploads/2023/03/426e5-clickwallpapers-attackontitan-4k-img6-base-scaled-1.jpg",
+                    "image": "https://animelib.me/uploads/anime/7389/cover/ef828360-03bc-4a40-9bdf-51fbbf0b6175.jpg",
+                    "name": "Attack on titans",
+                    "text": "Since ancient times, mankind has been waging its struggle with the titans. Titans are huge creatures, the height of a multi-storey building, who do not have great intelligence, but their strength is simply terrible. They eat people and enjoy it. After a long struggle, the remnants of humanity created a wall that surrounded the world of people, through which even the titans would not pass. A hundred years have passed since then. Humanity lives peacefully under the protection of the wall. But one day, the boy Eren and his half-sister Mikasa witness a terrible event: a section of the wall was destroyed by a super-titan that appeared out of thin air. The Titans attack the city, and two children are horrified to see one of the monsters eat their mother alive. Brother and sister survive, and Eren vows that he will kill all the titans and avenge all of humanity!"
+                },
+                {
+                    "id": 4,
+                    "back": "https://rare-gallery.com/thumbnail/393059-bleach-2021-manga-ichigo-4k-pc-wallpaper.jpg",
+                    "image": "https://animelib.me/uploads/anime/246/cover/301562cf-666a-445a-b0f0-324a8afcc696.jpg",
+                    "name": "Bleach",
+                    "text": "Ichigo Kurosaki has been able to see the ghosts and spirits of the dead since childhood. Now fifteen, he lives in modern Japan and is in high school. One unremarkable day, a girl suddenly appears in his bedroom - Rukia Kuchiki. She is a Shinigami and is greatly surprised that Ichigo can not only see her, but also, unheard of, touch her. The showdown that began was interrupted by the appearance of the Empty, the very one for which Rukia appeared. The fight with the Hollow goes badly: forced to protect Ichigo, Rukia is seriously injured. In order to save Ichigo, she transfers some of her own abilities to him, but to her surprise, Ichigo absorbs all of her energy and becomes a Shinigami himself. Leaving Rukia powerless and practically helpless, Ichigo easily overpowers the Hollow."
+                },
+                {
+                    "id": 5,
+                    "back": "https://i.pinimg.com/564x/66/35/9a/66359a10147e1bfa77932d030247e7af.jpg",
+                    "image": "https://animelib.me/uploads/anime/4684/cover/aea87687-16c8-4489-8646-59fbba19bae5.jpg",
+                    "name": "Fairy Tail",
+                    "text": "Lucy is a 17-year-old girl who dreams of becoming a real magician. One day, during a visit to the city of Hargion, she meets Natsu, a young man who becomes ill when riding any form of transport. This guy turns out to be not an ordinary boy, but a member of one of the strongest and most famous magic guilds in the world - 'Fairy Tail', the guild where Lucy has dreamed of joining all her life."
+                },
+                {
+                    "id": 6,
+                    "back": "https://wallpapers.com/images/featured/death-note-htruruirspqq0zot.jpg",
+                    "image": "https://animelib.me/uploads/anime/1357/cover/154de559-e236-492a-b32a-542e73fd1211.jpg",
+                    "name": "Death note",
+                    "text": "A bored Shinigami Ryuk throws one of his Death Notes into the human world. Just for fun, see what happens. Meanwhile, in Japan, on the school lawn, this very notebook is found by Light Yagami, the best student of the school, the son of a policeman. Intrigued by the instructions on the cover, he takes the notebook home and tries it out, writing in the name of the perpetrator. Will it suddenly work? Soon the whole world notices the strange mass deaths of criminals, and in the network the mysterious killer is dubbed Kira. To capture Kira, Interpol enlists the legendary detective L, who single-handedly solved the most complex and intricate crimes. Who L really is, no one knows. From now on, in the confrontation between Kira and L, the one who first reveals the true identity of the enemy and strikes before the opponent will win."
+                },
+                {
+                    "id": 7,
+                    "back": "https://wallpaperaccess.com/full/389830.jpg",
+                    "image": "https://animelib.me/uploads/anime/3961/cover/ac3468f8-4655-4889-a01d-54fd9359a551.jpg",
+                    "name": "Fullmetal Alchemist: Brotherhood",
+                    "text": "In this world, there are alchemists - people who own the art of alchemy, the ability to manipulate matter and transform matter. All of them are limited by the basic Law of alchemy: it is impossible to obtain something by alchemical means without sacrificing something of equal value to the received. Only with the help of the legendary philosopher's stone, the method of creation of which is lost, can this Law be circumvented. The main characters, brothers Edward and Alphonse Elric, suffered in childhood while trying to bring their mother back to life, who died of an illness. They forgot the basic Law of Alchemy and paid dearly for it: Alphonse lost his entire body, and Edward lost his arm and leg. Edward managed to save only the soul of Alphonse, sealing it in ancient armor. Many years later, Edward passes the state exam for the title of alchemist and receives the nickname 'Fullmetal Alchemist'. The brothers begin a journey to find the Philosopher's Stone and use it to return what was lost many years ago."
+                },
+                {
+                    "id": 8,
+                    "back": "https://wallpaperaccess.com/full/1083239.jpg",
+                    "image": "https://animelib.me/uploads/anime/6560/cover/d516e891-3fa8-4ded-9417-45dff52785fb.jpg",
+                    "name": "Kuroko no Basket",
+                    "text": "Teiko Middle School has become famous in a relatively short period of time. But so quickly it was not at all significant achievements in the field of knowledge that glorified her, but, oddly enough, the school basketball team. For three years in a row, she became the winner at the international championship, which eloquently proved the skill of its participants. The team consisted of more than a hundred people, but only five stood out among them, better known as the “Generation of Miracles”. Each of these court geniuses displayed an astounding level of skill. But there was a sixth among them, who could also be called exceptional, since the five celebrities recognized him as their equal. However, for some reason, this player has always remained aloof from the mainstream... After graduating, Teiko's students went to different high schools, and Generation of Miracles was no exception. Tetsuya Kuroko, the famous team's passer, leaves for Seirin High School, where he joins the basketball team, despite the fact that it was formed just over a year ago. Here he meets Taiga Kagami, a player with whom he has to go through a lot in order to be able to fight each of the Generation of Miracles. Will our heroes be able to achieve the success that the famous basketball team once had?"
+                },
+                {
+                    "id": 9,
+                    "back": "https://images3.alphacoders.com/723/thumbbig-723601.webp",
+                    "image": "https://animelib.me/uploads/anime/222/cover/c332af7c-249a-498d-82d3-7e74b4dff76a.jpg",
+                    "text": "Former biker Eikichi Onizuka, a former member of the Onibaku gang that terrifies the townspeople, sets himself the goal of becoming the coolest school teacher. Why a teacher? It's just that the schools are full of sexy high school girls! Well... almost a former gang member... However, the tyranny of the school administration and a whole class of juvenile delinquents stand between Onizuka and his goal. And by any means, whether legal or not, they want to get rid of the new teacher. However, Onizuka himself is not very worried about this - you will not find his methods of educating students in any textbook, he cares about the legality and permissibility of methods exactly as much as he cares about the age difference between him and the coveted high school girls.",
+                    "name": "Greate teacher Onizuka"
+                },
+                {
+                    "id": 10,
+                    "back": "https://wallpapercave.com/dwp1x/wp1812974.jpg",
+                    "image": "https://animelib.me/uploads/anime/6515/cover/c48225d5-e278-46ae-b6f3-a63ce022e818.jpg",
+                    "name": "High school DXD",
+                    "text": "Issei Hyoudou is a classic high school student whose whole mind revolves around girls and their charms. He goes on his first date in the hope that he will get at least something, but instead the girl turns out to be a fallen angel and kills him ... almost ... somehow he summons someone ... Waking up, Issei realizes that his life has changed dramatically: he was reborn into a demon, and must now serve his mistress Rias Gremory. One thing is clear - his quiet days are over. The eternal battle of angels and demons, how will it end?"
+                }
+            ]
+        },
+        "imges": {
+            "head": "Image",
+            "imge": [
+                {
+                    "id": 1,
+                    "image": "https://www.getsview.com/wp-content/uploads/2020/08/Learn-Programing-For-Free-With-An-Android-Device.jpg"
+                },
+                {
+                    "id": 2,
+                    "image": "https://images.pond5.com/programing-code-011357463_prevstill.jpeg"
+                },
+                {
+                    "id": 3,
+                    "image": "https://igorfil.com/posts/2020-05-03-what-language-to-learn-next/cover.png"
+                },
+                {
+                    "id": 4,
+                    "image": "https://gdb.voanews.com/6DD8F0FE-F989-409C-A996-22BA48C792C6_w408_r1_s.jpg"
+                },
+                {
+                    "id": 5,
+                    "image": "https://www.herzing.edu/sites/default/files/2020-09/it_computer_programming.jpg"
+                },
+                {
+                    "id": 6,
+                    "image": "https://images.pond5.com/programing-code-011357463_prevstill.jpeg"
+                },
+                {
+                    "id": 7,
+                    "image": "https://zendenwebdesign.com/wp-content/uploads/2017/10/Top-7-Programing-Languages-for-Web-Development.jpg"
+                }
+            ]
+        },
+        "contacts": {
+            "head": "Application",
+            "userElse": "Error try agen !",
+            "form": {
+                "firstName": "First name",
+                "lastName": "Last name",
+                "email": "Email",
+                "message": "Message",
+                "buttons": "Send"
+            },
+            "card": {
+                "head": "My contacts",
+                "information": [
+                    {
+                        "name": "Address:",
+                        "tetx": "Kyrgyzstan, Naryn region, house. Address: Samansur Ata 45",
+                        "Link": "https://goo.gl/maps/sxnLLopcDRdKyzgt5",
+                        "id": 1
+                    },
+                    {
+                        "name": "Email:",
+                        "tetx": "tomoisempay@gmail.com",
+                        "Link": "mailto:tomoisempay@gmail.com",
+                        "id": 2
+                    },
+                    {
+                        "name": "Phone number:",
+                        "tetx": "+996 709 963 853",
+                        "Link": "tel:+996709963853",
+                        "id": 3
+                    }
+                ]
+            }
+        }
+    }
+}
